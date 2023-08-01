@@ -1,8 +1,8 @@
 # AutomationWithCypress
 Automation with Cypress
 
+![2023-08-01 (2)](https://github.com/Strat-Bianca/AutomationWithCypress/assets/119669189/eb484e11-8bf5-4e0d-9272-5c77615d0fab)
 
 
-![2023-08-01 (1)](https://github.com/Strat-Bianca/AutomationWithCypress/assets/119669189/ee614311-43c8-47a5-a3c5-b1782c8d84b2)
 
 
